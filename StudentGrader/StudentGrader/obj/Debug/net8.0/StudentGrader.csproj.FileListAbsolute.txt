@@ -12,3 +12,4 @@ C:\Users\Samuel Hossain\Desktop\Repos\StudentGrader\StudentGrader\StudentGrader\
 C:\Users\Samuel Hossain\Desktop\Repos\StudentGrader\StudentGrader\StudentGrader\obj\Debug\net8.0\StudentGrader.pdb
 C:\Users\Samuel Hossain\Desktop\Repos\StudentGrader\StudentGrader\StudentGrader\obj\Debug\net8.0\StudentGrader.genruntimeconfig.cache
 C:\Users\Samuel Hossain\Desktop\Repos\StudentGrader\StudentGrader\StudentGrader\obj\Debug\net8.0\ref\StudentGrader.dll
+C:\Users\Samuel Hossain\Desktop\Repos\StudentGrader\StudentGrader\StudentGrader\obj\Debug\net8.0\StudentGrader.sourcelink.json
