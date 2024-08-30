@@ -1,0 +1,14 @@
+C:\Users\Samuel Hossain\Desktop\Repos\StudentGrader\StudentGrader\StudentGrader\bin\Debug\net8.0\StudentGrader.exe
+C:\Users\Samuel Hossain\Desktop\Repos\StudentGrader\StudentGrader\StudentGrader\bin\Debug\net8.0\StudentGrader.deps.json
+C:\Users\Samuel Hossain\Desktop\Repos\StudentGrader\StudentGrader\StudentGrader\bin\Debug\net8.0\StudentGrader.runtimeconfig.json
+C:\Users\Samuel Hossain\Desktop\Repos\StudentGrader\StudentGrader\StudentGrader\bin\Debug\net8.0\StudentGrader.dll
+C:\Users\Samuel Hossain\Desktop\Repos\StudentGrader\StudentGrader\StudentGrader\bin\Debug\net8.0\StudentGrader.pdb
+C:\Users\Samuel Hossain\Desktop\Repos\StudentGrader\StudentGrader\StudentGrader\obj\Debug\net8.0\StudentGrader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Hossain\Desktop\Repos\StudentGrader\StudentGrader\StudentGrader\obj\Debug\net8.0\StudentGrader.AssemblyInfoInputs.cache
+C:\Users\Samuel Hossain\Desktop\Repos\StudentGrader\StudentGrader\StudentGrader\obj\Debug\net8.0\StudentGrader.AssemblyInfo.cs
+C:\Users\Samuel Hossain\Desktop\Repos\StudentGrader\StudentGrader\StudentGrader\obj\Debug\net8.0\StudentGrader.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Hossain\Desktop\Repos\StudentGrader\StudentGrader\StudentGrader\obj\Debug\net8.0\StudentGrader.dll
+C:\Users\Samuel Hossain\Desktop\Repos\StudentGrader\StudentGrader\StudentGrader\obj\Debug\net8.0\refint\StudentGrader.dll
+C:\Users\Samuel Hossain\Desktop\Repos\StudentGrader\StudentGrader\StudentGrader\obj\Debug\net8.0\StudentGrader.pdb
+C:\Users\Samuel Hossain\Desktop\Repos\StudentGrader\StudentGrader\StudentGrader\obj\Debug\net8.0\StudentGrader.genruntimeconfig.cache
+C:\Users\Samuel Hossain\Desktop\Repos\StudentGrader\StudentGrader\StudentGrader\obj\Debug\net8.0\ref\StudentGrader.dll
